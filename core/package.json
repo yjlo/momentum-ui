@@ -62,11 +62,7 @@
     "test:percy": "run-p --race start:app test:CI:percy"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "@momentum-ui/icons": "^7.38.0"
-=======
     "@momentum-ui/icons": "^7.38.1"
->>>>>>> 24bbfa4a4259681296500e064d0c4dc7986d2a78
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
@@ -79,15 +75,9 @@
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
     "@hot-loader/react-dom": "~16.8.0",
-<<<<<<< HEAD
-    "@momentum-ui/react": "^23.14.1",
-    "@momentum-ui/tokens": "^1.1.0",
-    "@momentum-ui/utils": "^6.2.1",
-=======
     "@momentum-ui/react": "^23.15.1",
     "@momentum-ui/tokens": "^1.2.0",
     "@momentum-ui/utils": "^6.2.2",
->>>>>>> 24bbfa4a4259681296500e064d0c4dc7986d2a78
     "@percy/cypress": "^0.2.3",
     "autoprefixer": "^7.2.4",
     "babel-core": "^7.0.0-bridge.0",
